@@ -1,4 +1,7 @@
-# api documentation for  [drawille (v1.1.0)](https://github.com/madbence/node-drawille#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-drawille.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-drawille) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-drawille.svg)](https://travis-ci.org/npmdoc/node-npmdoc-drawille)
+# npmdoc-drawille
+
+#### api documentation for  [drawille (v1.1.0)](https://github.com/madbence/node-drawille#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-drawille.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-drawille) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-drawille.svg)](https://travis-ci.org/npmdoc/node-npmdoc-drawille)
+
 #### Drawing in terminal with unicode braille characters
 
 [![NPM](https://nodei.co/npm/drawille.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/drawille)
