@@ -56,7 +56,8 @@
     "scripts": {
         "test": "echo \"OK 1337/1337 passed! (100%)\""
     },
-    "version": "1.1.0"
+    "version": "1.1.0",
+    "bin": {}
 }
 ```
 
